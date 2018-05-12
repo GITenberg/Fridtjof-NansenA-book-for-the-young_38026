@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39206
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Breda_Bull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38026#Fridtjof-NansenA-book-for-the-young
 gutenberg_issued: '2011-11-15'
 gutenberg_type: Text
 identifiers:
