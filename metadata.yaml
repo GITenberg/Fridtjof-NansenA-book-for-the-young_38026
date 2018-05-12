@@ -1,0 +1,39 @@
+_repo: Fridtjof-NansenA-book-for-the-young_38026
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Barnard, M. R. (Mordaunt Roger)
+    alias: Barnard, Mordaunt Roger
+    gutenberg_agent_id: '39207'
+    url: http://www.gutenberg.org/2009/agents/39207
+covers:
+- cover_type: archival
+  image_path: 38026-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bull, Jacob B. (Jacob Breda)
+    birthdate: 1853
+    deathdate: 1930
+    gutenberg_agent_id: '39206'
+    url: http://www.gutenberg.org/2009/agents/39206
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Breda_Bull
+description: ''
+gutenberg_issued: '2011-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Arctic regions'
+- !lcsh 'Nansen, Fridtjof, 1861-1930'
+tableOfContents: Nansen's boyhood; Education and character -- Youthful adventures
+  -- Mountain-climbing in winter -- Preparing for the Greenland expedition -- Sledging
+  across Greenland -- Nansen's marriage; A strange wedding trip -- The Fram; Setting
+  out for the Pole -- The ice pressure; Hunting the white bear -- Farthest north --
+  Nansen meeting Dr. Jackson in Franz Joseph Land.
+title: 'Fridtjof Nansen: A Book for the Young'
+url: http://www.gutenberg.org/ebooks/38026
